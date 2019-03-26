@@ -1,3 +1,17 @@
+
+
+
+
+#gcp
+
+## 学习资源：
+
+###   archtect
+https://inthecloud.withgoogle.com/onboard/global-classic.html
+
+### big data & machine-learning
+https://inthecloud.withgoogle.com/onboard/global-machine-learning.html
+
 # gke
 
 
