@@ -2,7 +2,9 @@
 
 
 
-#gcp
+#  gcp
+https://cloud.google.com/training/free-labs/
+
 
 ## 学习资源：
 
