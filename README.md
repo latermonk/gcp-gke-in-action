@@ -1,8 +1,13 @@
 
 
+#  events
+
+https://cloudonair.withgoogle.com/events/americas?utm_source=google&utm_medium=blog&utm_campaign=FY19-Q1-americas-onair-website-er-blog_mar8_security_gcp&utm_content=product_marketing
 
 
-#  gcp
+
+
+#  gcp frerelab
 https://cloud.google.com/training/free-labs/
 
 
