@@ -1,6 +1,11 @@
 
 
-#  events
+#  events.
+
+
+https://cloud.google.com/blog/topics/training-certifications/get-google-cloud-certified-at-next-19-what-you-need-to-know?utm_medium=email&utm_source=other&utm_campaign=partner.443.opencourse.targetedmessages.marketing~partner.443.83bvhyA-EemUGhIv8FOzUg
+
+
 
 https://cloudonair.withgoogle.com/events/americas?utm_source=google&utm_medium=blog&utm_campaign=FY19-Q1-americas-onair-website-er-blog_mar8_security_gcp&utm_content=product_marketing
 
