@@ -4,6 +4,7 @@ https://www.coursera.org/promo/NEXTExtended
 
 #  **Good Course**
 
+
 https://www.coursera.org/specializations/gcp-architecture
 
 https://www.coursera.org/specializations/gcp-data-machine-learning
@@ -19,6 +20,8 @@ https://cloud.google.com/certification/
 
 
 ## introduction
+![GCP-COurse](GCP-COurse.png)
+
 https://cloud.google.com/certification/cloud-architect
 
 
