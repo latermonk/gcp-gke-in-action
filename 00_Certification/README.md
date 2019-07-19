@@ -3,7 +3,7 @@ https://www.coursera.org/promo/NEXTExtended
 
 
 #  **Good Course**
-
+![GCP-COurse](GCP-COurse.png)
 
 https://www.coursera.org/specializations/gcp-architecture
 
@@ -20,7 +20,7 @@ https://cloud.google.com/certification/
 
 
 ## introduction
-![GCP-COurse](GCP-COurse.png)
+
 
 https://cloud.google.com/certification/cloud-architect
 
