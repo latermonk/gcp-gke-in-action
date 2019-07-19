@@ -8,6 +8,10 @@ https://cloud.google.com/certification/
 https://cloud.google.com/certification/cloud-architect
 
 
+**https://www.coursera.org/specializations/gcp-architecture**
+
+
+
 
 https://google.qwiklabs.com/courses/844
 
