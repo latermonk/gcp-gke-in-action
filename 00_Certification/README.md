@@ -21,12 +21,48 @@
 
 
 #  [### Essential Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=gcp-architecture)
+## Welcome to Essential Cloud Infrastructure: Core Services
+## Module 1: Cloud IAM
+## Module 2: Data Storage Services
+## Module 3: Resource Management
+## Module 4: Resource Monitoring
 
-#Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation?specialization=gcp-architecture)
+
+
+
+# [Elastic Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation?specialization=gcp-architecture)
+
+## Welcome to Elastic Cloud Infrastructure: Scaling and Automation
+## Module 1: Interconnecting Networks
+## Module 2: Load Balancing
+## Module 3: Autoscaling
+## Module 4: Infrastructure Automation with Cloud API
+## Module 5: Infrastructure Automation with Deployment Manager
+## Module 6: Managed Services
+
+
+
 
 #  [### Elastic Cloud Infrastructure: Containers and Services](https://www.coursera.org/learn/gcp-infrastructure-containers-services)
 
+## Welcome to Elastic Infrastructure: Containers and Services
+## Module 1: Application Infrastructure Services
+## Module 2: Application Development Services
+## Module 3: Containers
+
+
 #  [### Reliable Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)
+
+## Welcome to Design and Process
+## Defining the Service
+## Business-logic Layer Design
+## Data Layer Design
+## Presentation Layer
+## Design for Resiliency, Scalability, and Disaster Recovery
+## Design for Security
+## Capacity Planning and Cost Optimization
+## Deployment, Monitoring and Alerting, and Incident Response
+
 
 
 
