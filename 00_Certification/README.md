@@ -5,6 +5,10 @@ https://cloud.google.com/blog/products/containers-kubernetes/announcing-new-gke-
 
 # Architecting with Google Cloud Platform
 
+https://google.qwiklabs.com/courses/844      
+
+https://www.coursera.org/specializations/gcp-architecture     
+
 ##  [### Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-architecture)
 ### Introducing Google Cloud Platform
 ### Getting Started with Google Cloud Platform
