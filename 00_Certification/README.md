@@ -1,3 +1,6 @@
+#  New k8s Course free for one month 
+https://cloud.google.com/blog/products/containers-kubernetes/announcing-new-gke-architecture-specialization?utm_source=youtube&utm_medium=unpaidsocial&utm_campaign=mir-20190722-Architecting-Google-Kubernetes
+
 
 
 # Architecting with Google Cloud Platform
